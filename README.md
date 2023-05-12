@@ -45,5 +45,6 @@
 - https://cubic-bezier.com/ 애니메이션을 역동적으로 움직이기 위해 사용되는 함수를 생성해주는 사이트입니다.
 
 - 애플과 구글에서는 앱을 만들때 자기들의 기준에 맞추어서 개발하도록 가이드라인을 제시하고 있습니다.  
-http://uidesignguides.com/design-system-motion-principle/ 클릭 후 반드시 정독하시기 바랍니다.
-(👁️ 과제입니다 )
+
+
+[!NOTE] http://uidesignguides.com/design-system-motion-principle/ 클릭 후 반드시 정독하시기 바랍니다. (👁️ 과제입니다 )
