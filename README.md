@@ -3,6 +3,7 @@
 
 빨간색 영역이 사용자가 터치하기 어려운 구역을 의미합니다.
 
+1. <img width="522" alt="스크린샷 2023-05-11 오전 11 13 17" src="https://github.com/PhoebeYoon/Figma/assets/48478079/cc22d3e7-f6eb-45d0-91ca-7beb4fc32e6a">
 
 
 2. <img width="300" alt="스크린샷 2023-05-11 오전 11 13 17" src="https://github.com/PhoebeYoon/Figma/assets/48478079/66a68bd9-ad52-4d71-894d-750e71d35e41">
