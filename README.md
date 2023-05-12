@@ -48,5 +48,4 @@
 
 
 >[!NOTE]   
->
 >http://uidesignguides.com/design-system-motion-principle/ 클릭 후 반드시 정독하시기 바랍니다. (👁️ 과제입니다 )
