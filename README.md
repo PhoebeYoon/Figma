@@ -36,3 +36,11 @@ color space에는 sRGB 와 unmanaged가 있는데 모두 **sRGB**로 설정해 �
 ## 🍑 피그마파일 (.fig)  
 <img width="130" alt="스크린샷 2023-05-12 오후 9 39 57" src="https://github.com/PhoebeYoon/Figma/assets/48478079/24664b9e-7710-4168-a037-1d7d6d3a0527">
 
+## 🍑 Set small and big nudge values
+- Preferences > Nudge amount.  
+- 화살표 키를 사용하여 도면층의 위치를 조정할 수 있습니다. Figma를 사용하면 작은 넛지와 큰 넛지의 두 가지 기본 넛지 양을 설정할 수 있습니다. 
+- 아래쪽 화살표를 클릭하면 **small nudge인 1만큼씩** 움직이고 **shift키를 누른상태에서 아래쪽화살표를 같이 클릭하면 big nudge인 10픽셀만큼** 
+움직입니다.  
+
+
+
