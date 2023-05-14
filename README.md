@@ -19,3 +19,7 @@
 
 
 <img width="421" alt="스크린샷 2023-05-12 오후 2 56 24" src="https://github.com/PhoebeYoon/Figma/assets/48478079/ccabbdd7-59e6-40f6-b3fc-36332249cdaa">
+
+
+
+
