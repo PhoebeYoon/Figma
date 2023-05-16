@@ -6,8 +6,8 @@
 그룹의 아이콘 사각형점선이고 사각형은 사각형, 프레임은 # 모양을 가진다.
 
 아래의 이미지를 보면 기능의 차이를 알수 있다.    
-위에 있는 사각형툴은  'auto layout' 이라는 기능이 아예 없다.   
-그러나 프레임에는 'auto layout' 있다.  그리고 사각형을 그룹으로 묶으면 'Auto layout'이 비활성된 상태로 생긴다.
+위에 있는 사각형툴은  'auto layout' , 'Layout grid' 이라는 기능이 아예 없다.   
+그러나 프레임에는 'auto layout' , 'Layout grid' 있다.  그리고 사각형을 그룹으로 묶으면 'Auto layout'이 비활성된 상태로 생긴다.
 
 
 <img width="400" alt="스크린샷 2023-05-16 오전 10 43 49" src="https://github.com/PhoebeYoon/Figma/assets/48478079/0e4f0989-4fa4-4bf8-8554-61f01b2fb84b">
