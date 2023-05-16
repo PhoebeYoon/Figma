@@ -4,7 +4,9 @@
 - 비트맵, 벡터 
 - 레이어
 - 컴포넌트
-- 페이지/프레임
+- 페이지,프레임, 사각형, 그룹
+- Contraints
+- Component
 - 
 ### 1. 피그마 Basic Tools
 - Figma 도구 리뷰
