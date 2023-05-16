@@ -10,3 +10,5 @@
 
 
 <img width="500" alt="스크린샷 2023-05-15 오후 9 14 10" src="https://github.com/PhoebeYoon/Figma/assets/48478079/f5d7a68c-5fc2-4985-abd3-1d8426cf4a9d">
+
+발췌 : pinterest
