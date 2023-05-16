@@ -66,11 +66,10 @@
 
 <img width="700" alt="스크린샷 2023-05-16 오후 9 34 08" src="https://github.com/PhoebeYoon/Figma/assets/48478079/cdd1d124-ace2-487a-b104-27bb9f63fe42">
 
-
-
-
 <img width="400" alt="스크린샷 2023-05-16 오후 10 19 02" src="https://github.com/PhoebeYoon/Figma/assets/48478079/2ad3116b-e430-4701-aaf5-487cde05a126">
 
-
-
+아래의 영상에서 필요한 부분만 시청하겠습니다.  
+📺[CRT How to work 유튜브](https://www.youtube.com/watch?v=Gnl1vuwjHto)    
+📺[How Analog Video Works](https://www.youtube.com/watch?v=r38nVmxBfvM)   
+📺[How a CRT TV works](https://www.youtube.com/watch?v=dlT-seESkj0)
 
