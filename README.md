@@ -35,7 +35,7 @@
 - opacity
 
 ## 🍑 디자인 토큰에 대한 예시 
-<img width="400" alt="스크린샷 2023-05-16 오후 8 20 49" src="https://github.com/PhoebeYoon/Figma/assets/48478079/ae74623b-9d16-4dd3-98af-e122f533738d">  
+<img width="450" alt="스크린샷 2023-05-16 오후 8 20 49" src="https://github.com/PhoebeYoon/Figma/assets/48478079/ae74623b-9d16-4dd3-98af-e122f533738d">  
 
 (출처:https://www.headway.io/blog/design-tokens-in-figma-setting-up-your-design-system)   
 
@@ -52,7 +52,7 @@
 - button-blue-active  ( 파란색 버튼이고 지금 활성화된 상태 )   
 - checkbox-active  ( 체크박스인데 활성화된 상태  )   
 - radio-active ( 라디오버튼인데 활성화된 상태 )   
-- mycomany-brand , global-blue ( 문맥에  상관없이 
+- mycomany-brand , global-blue ( 문맥에  상관없이 사용가능한 토큰을 글로벌 토큰이라고도 합니다 )
 
 
 
