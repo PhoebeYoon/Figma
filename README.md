@@ -56,3 +56,19 @@
 #### 중요한 것중 하나는 브라우저가 랜더링을 해서 실제적인 컨텐츠를 보여줄때 이 '별칭'은 그 고유의 값 (actual value)로 변경된다는 것입니다. 
 
 
+## 🍑 모니터를 통해 색이 어떻게 만들어질까요
+
+<img width="700" alt="스크린샷 2023-05-16 오후 9 33 20" src="https://github.com/PhoebeYoon/Figma/assets/48478079/8c9c183c-b6dc-4978-97b1-27006c350e6d"> 
+
+
+
+<img width="700" alt="스크린샷 2023-05-16 오후 9 34 08" src="https://github.com/PhoebeYoon/Figma/assets/48478079/cdd1d124-ace2-487a-b104-27bb9f63fe42">
+
+
+
+
+<img width="400" alt="스크린샷 2023-05-16 오후 10 19 02" src="https://github.com/PhoebeYoon/Figma/assets/48478079/2ad3116b-e430-4701-aaf5-487cde05a126">
+
+
+
+
