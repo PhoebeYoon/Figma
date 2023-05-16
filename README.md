@@ -52,10 +52,7 @@
 - button-blue-active  ( 파란색 버튼이고 지금 활성화된 상태 )   
 - checkbox-active  ( 체크박스인데 활성화된 상태  )   
 - radio-active ( 라디오버튼인데 활성화된 상태 )   
-- mycomany-brand , global-blue ( 문맥에  상관없이 사용가능한 토큰을 글로벌 토큰이라고도 합니다 )
-
-
-
-
+- mycomany-brand , global-blue ( 문맥에  상관없이 사용가능한 토큰을 글로벌 토큰이라고도 합니다 )   
+#### 중요한 것중 하나는 브라우저가 랜더링을 해서 실제적인 컨텐츠를 보여줄때 이 '별칭'은 그 고유의 값 (actual value)로 변경된다는 것입니다. 
 
 
