@@ -5,7 +5,10 @@
 <img width="350" alt="스크린샷 2023-05-11 오전 11 13 17" src="https://github.com/PhoebeYoon/Figma/assets/48478079/66a68bd9-ad52-4d71-894d-750e71d35e41">   
 
 ## 🍑 눈여겨 봐야할 내용들  
-<img width="200" alt="스크린샷 2023-05-12 오후 2 41 25" src="https://github.com/PhoebeYoon/Figma/assets/48478079/a6aa53bf-ec0f-43dd-8e19-38c48175d471">.  
+ 
+<img width="250" alt="스크린샷 2023-05-17 오전 11 16 07" src="https://github.com/PhoebeYoon/Figma/assets/48478079/ea2efe93-8be5-47e5-9a55-48b5964f6c90">
+<img width="250" alt="스크린샷 2023-05-17 오전 11 16 14" src="https://github.com/PhoebeYoon/Figma/assets/48478079/eaf3eaef-3e88-496e-aad5-e744d9b93b43">
+
 
 
 <img width="350" alt="스크린샷 2023-05-12 오후 2 42 15" src="https://github.com/PhoebeYoon/Figma/assets/48478079/d502a324-cee4-47f0-9470-5a1fb1d661eb">.  
@@ -31,7 +34,7 @@
 - 공통의 원리 : 근접성의 원리와 비슷. 박스안에 있는 요소들을 같은 정보로 묶어서 보는 경향을 말한다.  박스형식의 카드형태를 생각하면 된다. 섹션를 박스별로 묶어서 보여주는 것
 - 연속성의 원리 : 연속성을 띠는 배열을 관련성이 있다고 보는 것이다.  
 
-### 📓 Layout 설계하기
+### 🍩 Layout 설계하기
 
 - **Proximity** : (거리·시간상으로) 가까움[근접] – 보여지는 내용들사이의 간격들. 
 <img width="200" alt="스크린샷 2023-05-17 오전 10 16 59" src="https://github.com/PhoebeYoon/Figma/assets/48478079/6809c684-ec42-4e99-b5aa-2dff471445e1">     
@@ -54,7 +57,7 @@
 - **Hierarchy 계급[계층]** : ( A visual technique)는 유저가 당신의 작품 속 방향성을 알려주는 시각적 기술.
 <img width="500" alt="스크린샷 2023-05-17 오전 10 10 37" src="https://github.com/PhoebeYoon/Figma/assets/48478079/c3078faa-01d3-4279-a7b2-34a6cf8072f4">    
 
-### 📓 How to apply a color palette to your design   
+### 🍩 How to apply a color palette to your design   
 <img width="250" alt="스크린샷 2023-05-17 오전 11 00 17" src="https://github.com/PhoebeYoon/Figma/assets/48478079/4429f6da-1eb3-4a58-b9fd-f338d4d6a2f3">
 
 <br />
