@@ -70,5 +70,7 @@
 
 ### 🍩 제작시 참조사이트 :        
 https://easyappicon.com/   
-https://adapticon.mariusclaret.com/
+https://adapticon.mariusclaret.com/    
+https://screensiz.es/phone     
+http://iosres.com/   
 
