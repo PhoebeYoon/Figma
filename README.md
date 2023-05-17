@@ -7,4 +7,5 @@ Spring animation 이란 css에서 사용했던 animation 기능 말합니다. �
 그런데 우리가 이것을 모두 정해줘야 하는 것은 아닙니다. 이미 만들어져 있는 것을 함수를 부르듯 지정된 이름을 선택하면 '그렇게' 작동합니다. 
 - 작동원리 : https://easings.net/
 - css syntax : https://www.w3schools.com/cssref/css3_pr_animation.php
-- 좀더 다양한 움직임을 만들려면 : https://cubic-bezier.com/#.17,.67,.83,.67
+- 좀더 다양한 움직임을 만들려면 : https://cubic-bezier.com/#.17,.67,.83,.67  
+- https://cubic-bezier.com/ 애니메이션을 역동적으로 움직이기 위해 사용되는 함수를 생성해주는 사이트입니다.
