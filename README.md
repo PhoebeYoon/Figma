@@ -35,8 +35,9 @@
 
 - **Proximity** : (거리·시간상으로) 가까움[근접] – 보여지는 내용들사이의 간격들. 
 <img width="200" alt="스크린샷 2023-05-17 오전 10 16 59" src="https://github.com/PhoebeYoon/Figma/assets/48478079/6809c684-ec42-4e99-b5aa-2dff471445e1">     
-<img width="270" alt="스크린샷 2023-05-17 오전 10 17 06" src="https://github.com/PhoebeYoon/Figma/assets/48478079/2d2c5451-d2bf-4f88-9e8f-c1c83590e491">
-<img width="270" alt="스크린샷 2023-05-17 오전 10 17 15" src="https://github.com/PhoebeYoon/Figma/assets/48478079/f1638d8e-7a69-49b5-b64b-a00ac7763ded">
+<br />
+<img width="290" alt="스크린샷 2023-05-17 오전 10 17 06" src="https://github.com/PhoebeYoon/Figma/assets/48478079/2d2c5451-d2bf-4f88-9e8f-c1c83590e491">
+<img width="290" alt="스크린샷 2023-05-17 오전 10 17 15" src="https://github.com/PhoebeYoon/Figma/assets/48478079/f1638d8e-7a69-49b5-b64b-a00ac7763ded">
 
 
 - **White space** : 여백
@@ -44,7 +45,7 @@
 
 - **Alignment** : 가지런함
 
-- **Contrast ** : (둘 이상의 사람사물을 비교했을 때 나타나는 뚜렷한) 차이; 대조, 대비
+- **Contrast** : (둘 이상의 사람사물을 비교했을 때 나타나는 뚜렷한) 차이; 대조, 대비
 <img width="600" alt="스크린샷 2023-05-17 오전 10 07 39" src="https://github.com/PhoebeYoon/Figma/assets/48478079/30e6451e-20e3-448e-9e77-63b83b7c1ad5">
 
 - **Repetition**  : (비슷하거나 동일한 일의) 반복
@@ -54,6 +55,10 @@
 <img width="500" alt="스크린샷 2023-05-17 오전 10 10 37" src="https://github.com/PhoebeYoon/Figma/assets/48478079/c3078faa-01d3-4279-a7b2-34a6cf8072f4">    
 
 ### 📓 How to apply a color palette to your design   
+<img width="250" alt="스크린샷 2023-05-17 오전 11 00 17" src="https://github.com/PhoebeYoon/Figma/assets/48478079/4429f6da-1eb3-4a58-b9fd-f338d4d6a2f3">
+
+<br />
+
 <img width="450" alt="스크린샷 2023-05-17 오전 10 05 15" src="https://github.com/PhoebeYoon/Figma/assets/48478079/9b12111b-048c-492d-9f38-ef1b23860339">
 
 [출처](https://www.youtube.com/watch?v=eXcKOqviLE0)
