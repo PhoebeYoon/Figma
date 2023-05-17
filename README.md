@@ -64,11 +64,11 @@
 
 <img width="450" alt="스크린샷 2023-05-17 오전 10 05 15" src="https://github.com/PhoebeYoon/Figma/assets/48478079/9b12111b-048c-492d-9f38-ef1b23860339">    
 
-**60% Primary / 30% Secondary/ 10% Accent**    
+**60% Primary / 30% Secondary / 10% Accent**    
 
 [출처](https://www.youtube.com/watch?v=eXcKOqviLE0)
 
-**제작시 참조사이트 :**     
+### 🍩 제작시 참조사이트 :        
 https://easyappicon.com/   
 https://adapticon.mariusclaret.com/
 
