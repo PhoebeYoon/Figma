@@ -71,3 +71,11 @@ _'컴퓨터 프로그램, 운영 체제, 컴퓨터 언어, 프로그래밍 언�
 
 그리고 사용자가 원할때 그 '꼬리표'시점으로 모든 내용을 **'복원'** 해 주는 것입니다. 
 
+## 🍑 웹 접근성에 관한 지침들  
+- https://www.w3.org/WAI/policies/republic-of-korea/     
+
+#### 타이포그래피에 관한 도움말 
+https://www.slideshare.net/jihwanpark986/typeface-typography-grid?related=1 
+
+### 미리 폰트의 모양을 확인  
+https://grtcalculator.com/
