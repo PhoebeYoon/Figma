@@ -32,6 +32,12 @@ color space에는 sRGB 와 unmanaged가 있는데 모두 **sRGB**로 설정해 �
 1. https://www.figma.com/google-fonts/ 접속한 뒤 원하는 폰트를 선택하세요 
 2. 아래쪽에 위치한 'Get this pairing'를 선택합니다 
 
+## 🍑 설정 바꾸기
+<img width="239" alt="스크린샷 2023-05-17 오후 1 27 05" src="https://github.com/PhoebeYoon/Figma/assets/48478079/d282c09d-390c-4918-a0bc-b9715d0f0bb5"> <br />
+
+<img width="235" alt="스크린샷 2023-05-17 오후 1 26 53" src="https://github.com/PhoebeYoon/Figma/assets/48478079/1d094ee8-c4ee-4f5f-ac60-229a3c016284">
+
+
 
 
 ## 🍑 피그마파일 (.fig)  
