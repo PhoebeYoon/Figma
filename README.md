@@ -1,4 +1,10 @@
 # Figma
+
+## 🍑 우리의 수업에 대한 안내
+-  초보자를 대상으로 수업이 진행 
+-  개인프로젝트, 팀 프로젝트
+-  피그마와 병행되는 프론트엔드 과정을 병행(?)
+
 ## 🍑 Figma 란
 
 Figma is a **vector graphics editor** and online design tool, created by Dylan Field and Evan Wallace. Figma is **free to use** for individuals, and there are **paid plans** for teams and organizations. The software is available on **macOS, Windows, and Linux**
