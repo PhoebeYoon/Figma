@@ -3,14 +3,13 @@
 
 빨간색 영역이 사용자가 터치하기 어려운 구역을 의미합니다. 
 
-<img width="350" alt="스크린샷 2023-05-11 오전 11 13 17" src="https://user-images.githubusercontent.com/66a68bd9-ad52-4d71-894d-750e71d35e41.png">    
+   <img width="485" alt="스크린샷 2023-05-18 오후 8 28 55" src="https://github.com/PhoebeYoon/Figma/assets/48478079/1fa1352c-c47c-452b-84ce-1222d175cd3b">
 
-![image](https://user-images.githubusercontent.com/66a68bd9-ad52-4d71-894d-750e71d35e41.jpg)
+
+
 ## 🍑 눈여겨 봐야할 내용들  
- <img width="453" alt="스크린샷 2023-05-17 오전 11 16 14" src="https://github.com/PhoebeYoon/Figma/assets/48478079/bd1a6dce-d493-4561-8910-771685fddc5b">
 
- 
-<img width="250" alt="스크린샷 2023-05-17 오전 11 16 07" src="https://user-images.githubusercontent.com/ea2efe93-8be5-47e5-9a55-48b5964f6c90">
+<img width="250" alt="스크린샷 2023-05-17 오전 11 16 07" src="https://github.com/PhoebeYoon/Figma/assets/48478079/d618a518-15ea-4e6b-9af4-b1945cd37c8c"> 
 <img width="250" alt="스크린샷 2023-05-17 오전 11 16 14" src="https://github.com/PhoebeYoon/Figma/assets/48478079/eaf3eaef-3e88-496e-aad5-e744d9b93b43">
 
 
