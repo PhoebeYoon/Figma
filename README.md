@@ -11,4 +11,4 @@
 
 실행한 후 녹화 전에 나오는 'Choose type of recording에서 Apps를 선택하고 해당하는 화면을 선택합니다.
 
-#### 3. Mac 사용자라면 QuickTiem Player에서 화면 레코딩을 선택하여 사용할 수 있다
+#### 3. Mac 사용자라면 QuickTime Player에서 화면 레코딩을 선택하여 사용할 수 있다
