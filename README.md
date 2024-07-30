@@ -1,4 +1,6 @@
 # Figma
+## 🍑 샘플 프로토타입
+https://www.figma.com/proto/CGbxsvfMp47FfWWs6yufJa/%E1%84%91%E1%85%A9%E1%84%91%E1%85%A9%E1%86%AF_%E1%84%89%E1%85%B5%E1%86%A8%E1%84%91%E1%85%AE%E1%86%B7?page-id=0%3A1&node-id=1-686&viewport=1299%2C134%2C0.5&t=askeymIKlcQuWydH-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A968&show-proto-sidebar=1
 
 ## 🍑 우리의 수업에 대한 안내
 -  초보자를 대상으로 수업이 진행 
