@@ -1,6 +1,8 @@
 # Figma
 ## 🍑 샘플 프로토타입
-https://featpaper.com/viewer/MW3eLy5nrF3z?email=unknown  (제한된 동작으로 작동합니다 )
+https://featpaper.com/viewer/MW3eLy5nrF3z?email=unknown  
+https://featpaper.com/viewer/gVqKWC7vKi0o?email=unknown
+(제한된 동작으로 작동합니다 )
 
 
 
